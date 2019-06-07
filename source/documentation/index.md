@@ -42,6 +42,8 @@
 
 #### Principle 18 - Enterprise architecture applies to external applications
 
+### Technology Principles
+
 #### Principle 19 - Requirements based change
 
 #### Principle 20 - Control technical diversity
