@@ -1,10 +1,10 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: nics-ea.london.cloudapps.digital
+host: nics-ea-docs.london.cloudapps.digital
 
 # Header-related options
 show_govuk_logo: false
 service_name: NICS Enterprise Architecture
-service_link: https://nics-ea.london.cloudapps.digital
+service_link: https://nics-ea-docs.london.cloudapps.digital
 phase: Draft
 
 # Links to show on right-hand-side of header

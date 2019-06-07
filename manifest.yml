@@ -1,6 +1,6 @@
 ---
 applications:
-- name: nics-ea
+- name: nics-ea-docs
   memory: 64M
   instances: 1
   path: ./build
