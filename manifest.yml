@@ -5,3 +5,5 @@ applications:
   instances: 1
   path: ./build
   buildpack: staticfile_buildpack
+services:
+- dd-basic-auth-service
